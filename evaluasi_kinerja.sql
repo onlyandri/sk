@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Mar 03, 2021 at 05:33 PM
+-- Generation Time: Sep 04, 2021 at 12:42 AM
 -- Server version: 10.1.36-MariaDB
 -- PHP Version: 7.2.11
 
@@ -150,7 +150,7 @@ INSERT INTO `nilai_detail` (`id_detail`, `id_nilai`, `kode_subkriteria`, `nilai`
 (304, 28, 'S007', 4),
 (305, 28, 'S008', 4),
 (306, 28, 'S009', 4),
-(307, 28, 'S010', 4);
+(307, 28, 'S010', 5);
 
 -- --------------------------------------------------------
 
